@@ -1,0 +1,40 @@
+OID_Hazard    Prefix Service       Start     End_TotalYearsFrequencyModelEAL_BuildingEAL_PopulationEAL_AgriculturePeriodOfRecordNRI_VER
+                                                            Annualized                                            1960-2019 (60 March
+   1Avalanche AVLN Avalanche             1960 2019        60Frequency               1             1              0years)          2023
+    Coastal                                                 Annualized                                            Various (see    March
+   2Flooding CFLD CoastalFlooding N/A        N/A N/A        Frequency               1             1              0documentation) 2023
+                                                            Annualized                                            2005-2021 (16 March
+   3Cold Wave CWAV ColdWave              2005 2021        16Frequency               1             1              1years)          2023
+                                                            Annualized                                            2000-2021 (22 March
+   4Drought   DRGT Drought               2000 2021        22Frequency               0             0              1years)          2023
+                                                                                                                                  March
+   5EarthquakeERQK Earthquake            2021 2021         1Probability             1             1              02021 dataset 2023
+                                                            Annualized                                            1986-2021 (34 March
+   6Hail      HAIL Hail                  1986 2021        34Frequency               1             1              1years)          2023
+                                                            Annualized                                            2005-2021 (16 March
+   7Heat Wave HWAV HeatWave              2005 2021        16Frequency               1             1              1years)          2023
+                                                                                                                  East 1851-2021
+                                                                                                                  (171 years) /
+                                                            Annualized                                            West 1949-      March
+   8Hurricane HRCN Hurricane        1851/1949 2021171/73    Frequency               1             1              12021 (73 years) 2023
+                                                            Annualized                                            1946-2014 (67 March
+   9Ice Storm ISTM IceStorm              1946 2014        67Frequency               1             1              0years)          2023
+                                                            Annualized                                            2010-2021 (12 March
+  10Landslide LNDS Landslide             2010 2021        12Frequency               1             1              0years)          2023
+                                                            Annualized                                            1991-2012 (22 March
+  11Lightning LTNG Lightning             1991 2012        22Frequency               1             1              0years)          2023
+    Riverine                                                Annualized                                            1996-2019 (24 March
+  12Flooding RFLD RiverineFlooding       1996 2019        24Frequency               1             1              1years)          2023
+    Strong                                                  Annualized                                            1986-2021 (34 March
+  13Wind      SWND StrongWind            1986 2021        34Frequency               1             1              1years)          2023
+                                                            Annualized                                            1950-2021 (72 March
+  14Tornado TRND Tornado                 1950 2021        72Frequency               1             1              1years)          2023
+                                                            Annualized                                            1800-2021 (222 March
+  15Tsunami TSUN Tsunami                 1800 2021       222Frequency               1             1              0years)          2023
+    Volcanic                                                Annualized                                            9310BC-2022 March
+  16Activity  VLCN VolcanicActivity 9310BC 2022       11331Frequency                1             1              0(11331 years) 2023
+                                                                                                                                  March
+  17Wildfire  WFIR Wildfire              2021 2021         1Probability             1             1              12021 dataset 2023
+    Winter                                                  Annualized                                            2005-2021 (16 March
+  18Weather WNTWWinterWeather            2005 2021        16Frequency               1             1              1years)          2023
+
